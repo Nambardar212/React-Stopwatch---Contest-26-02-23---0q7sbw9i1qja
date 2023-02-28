@@ -43,5 +43,13 @@
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nambardar212/React-Stopwatch---Contest-26-02-23---0q7sbw9i1qja.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nambardar212/React-Stopwatch---Contest-26-02-23---0q7sbw9i1qja/issues"
+  },
+  "homepage": "https://github.com/Nambardar212/React-Stopwatch---Contest-26-02-23---0q7sbw9i1qja#readme"
 }
